@@ -1,0 +1,13 @@
+2025-09-02 23:35:47,543 - BioHarnessSimulator - INFO - ============================================================
+2025-09-02 23:35:47,543 - BioHarnessSimulator - INFO - BioHarness Vitals Simulator Starting Up
+2025-09-02 23:35:47,544 - BioHarnessSimulator - INFO - ============================================================
+2025-09-02 23:35:47,544 - BioHarnessSimulator - INFO - Server URL: http://localhost:8000
+2025-09-02 23:35:47,544 - BioHarnessSimulator - INFO - Start Time: 2025-09-02T23:35:47.544563
+2025-09-02 23:35:47,544 - BioHarnessSimulator - INFO - Ready to simulate patient vital signs
+2025-09-02 23:35:47,545 - BioHarnessSimulator - INFO - ============================================================
+2025-09-02 23:35:47,545 - BioHarnessSimulator - INFO - Application is running. Press Ctrl+C to stop.
+2025-09-02 23:47:31,139 - BioHarnessSimulator - INFO - Generated Vitals | Mode: normal | HR: 83 bpm | BP: 108/73 mmHg | SpO2: 97% | Temp: 36.6°C | RR: 16/min | Patient: patient_001
+2025-09-02 23:49:39,392 - BioHarnessSimulator - INFO - Generated Vitals | Mode: normal | HR: 75 bpm | BP: 107/76 mmHg | SpO2: 97% | Temp: 36.5°C | RR: 15/min | Patient: patient_001
+2025-09-02 23:50:21,821 - BioHarnessSimulator - INFO - Generated Vitals | Mode: normal | HR: 76 bpm | BP: 113/72 mmHg | SpO2: 98% | Temp: 36.6°C | RR: 15/min | Patient: patient_001
+2025-09-02 23:51:04,268 - BioHarnessSimulator - INFO - Generated Vitals | Mode: normal | HR: 81 bpm | BP: 121/72 mmHg | SpO2: 98% | Temp: 36.7°C | RR: 15/min | Patient: patient_001
+2025-09-02 23:52:57,488 - BioHarnessSimulator - INFO - Received shutdown signal 2
